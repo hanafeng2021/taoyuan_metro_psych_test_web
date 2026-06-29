@@ -1,0 +1,7502 @@
+[
+  {
+    "id": 1,
+    "category": "責任感",
+    "type": "likert",
+    "question": "我會主動確認交辦事項是否已完成。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "責任感"
+  },
+  {
+    "id": 2,
+    "category": "責任感",
+    "type": "likert",
+    "question": "即使工作內容重複，我仍會保持認真。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "責任感"
+  },
+  {
+    "id": 3,
+    "category": "責任感",
+    "type": "likert",
+    "question": "我會把工作結果當成自己的責任。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "責任感"
+  },
+  {
+    "id": 4,
+    "category": "責任感",
+    "type": "likert",
+    "question": "我不會把錯誤推給別人。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "責任感"
+  },
+  {
+    "id": 5,
+    "category": "責任感",
+    "type": "likert",
+    "question": "我會在期限前完成重要任務。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "責任感"
+  },
+  {
+    "id": 6,
+    "category": "責任感",
+    "type": "likert",
+    "question": "我會主動追蹤未完成事項。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "責任感"
+  },
+  {
+    "id": 7,
+    "category": "責任感",
+    "type": "likert",
+    "question": "我願意承擔工作中應負的責任。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "責任感"
+  },
+  {
+    "id": 8,
+    "category": "責任感",
+    "type": "likert",
+    "question": "我會把小細節也當成重要工作處理。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "責任感"
+  },
+  {
+    "id": 9,
+    "category": "責任感",
+    "type": "likert",
+    "question": "我不會因為沒有人注意就降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "責任感"
+  },
+  {
+    "id": 10,
+    "category": "責任感",
+    "type": "likert",
+    "question": "我會在交班前確認該交代的事項。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "責任感"
+  },
+  {
+    "id": 11,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "我認為安全檢查不應被省略。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "安全意識"
+  },
+  {
+    "id": 12,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "我會優先處理可能造成危險的問題。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "安全意識"
+  },
+  {
+    "id": 13,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "遇到異常狀況時，我會依規定通報。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "安全意識"
+  },
+  {
+    "id": 14,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "我不會為了求快而違反安全流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "安全意識"
+  },
+  {
+    "id": 15,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "我會留意工作環境是否有潛在危險。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "安全意識"
+  },
+  {
+    "id": 16,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "我相信小疏忽可能造成嚴重後果。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "安全意識"
+  },
+  {
+    "id": 17,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "我會提醒同事遵守安全規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "安全意識"
+  },
+  {
+    "id": 18,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "我會在操作前確認設備狀態。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "安全意識"
+  },
+  {
+    "id": 19,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "我能接受安全相關的嚴格要求。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "安全意識"
+  },
+  {
+    "id": 20,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "我認為紀錄異常比隱瞞問題重要。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "安全意識"
+  },
+  {
+    "id": 21,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "我習慣依照標準程序完成工作。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 22,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "即使流程較繁瑣，我仍會照規定執行。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 23,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "我不會自行改變工作流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 24,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "我會先確認規定再採取行動。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 25,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "我能理解標準作業程序的重要性。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 26,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "我不會因熟悉工作就跳過必要步驟。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 27,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "我會按照主管與制度要求執行任務。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 28,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "遇到不確定情況時，我會查明程序。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 29,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "我願意接受程序訓練。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 30,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "我會依照規範留下必要紀錄。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 31,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到突發事件時，我能保持冷靜。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 32,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "我不會因乘客或同事的情緒而失控。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 33,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "被批評時，我會先思考對方的意見。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 34,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "我能控制自己的說話語氣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 35,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "工作壓力大時，我仍能維持基本禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 36,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "我不容易因小事煩躁。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 37,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "我能在緊張情況下做出理性判斷。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 38,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "我會用合適的方法調整情緒。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 39,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "我不會把私人情緒帶入工作。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 40,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "我能接受他人提出改進建議。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 41,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "我能接受輪班造成的生活調整。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 42,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "工作量增加時，我能安排優先順序。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 43,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "我在壓力下仍能維持專注。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 44,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "我能接受需要長時間保持警覺的工作。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 45,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "遇到困難時，我會尋找解決方法。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 46,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "我不會因一次挫折就放棄。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 47,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "我能面對嚴格的工作要求。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 48,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "我可以在規定時間內完成任務。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 49,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "我能承受被檢核或被評估的壓力。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 50,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "我會用正面方式面對工作挑戰。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 51,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我會仔細檢查數字與資料是否正確。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 52,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我能長時間專注在同一件事情上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 53,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我會注意平常容易被忽略的細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 54,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我不會一邊工作一邊分心做其他事。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 55,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我會再次確認重要訊息。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 56,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我能在吵雜環境中維持注意力。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 57,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我會避免因粗心造成錯誤。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 58,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我能依序完成多個檢查步驟。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 59,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我會留意時間、地點與指示是否一致。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 60,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我能辨識異常訊號或不合理資訊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 61,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我願意與不同個性的同事合作。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 62,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我會尊重團隊分工。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 63,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我願意主動提供必要資訊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 64,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我能接受主管的工作安排。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 65,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我會在團隊中保持良好溝通。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 66,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我不會故意隱瞞影響他人的資訊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 67,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我願意協助同事完成工作。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 68,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我能以團隊目標為優先。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 69,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我會尊重不同意見。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 70,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我能配合交班與接班制度。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 71,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "即使沒有人發現，我也不會違規。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 72,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "我不會偽造紀錄或資料。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 73,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "我會誠實說明工作狀況。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 74,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "我願意承認自己的錯誤。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 75,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "我不會利用職務取得不當利益。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 76,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "我認為誠實是工作基本要求。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 77,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "我不會隱瞞可能影響安全的事情。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 78,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "我會依規定申報或回報問題。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 79,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "我不會因怕被責備而說謊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 80,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "我能接受制度性的查核。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 81,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對乘客詢問時，我會保持耐心。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "服務態度"
+  },
+  {
+    "id": 82,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "我會用禮貌方式處理抱怨。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "服務態度"
+  },
+  {
+    "id": 83,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "即使對方情緒不好，我仍會保持專業。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "服務態度"
+  },
+  {
+    "id": 84,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "我願意協助需要幫助的乘客。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "服務態度"
+  },
+  {
+    "id": 85,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "我會注意自己的語氣與態度。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "服務態度"
+  },
+  {
+    "id": 86,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "我理解公共運輸服務需要穩定形象。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "服務態度"
+  },
+  {
+    "id": 87,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "我不會與乘客爭辯或挑釁。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "服務態度"
+  },
+  {
+    "id": 88,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "我會依規定處理乘客問題。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "服務態度"
+  },
+  {
+    "id": 89,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "我願意學習更好的服務方式。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "服務態度"
+  },
+  {
+    "id": 90,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "我會把乘客安全放在重要位置。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "服務態度"
+  },
+  {
+    "id": 91,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "我會先判斷風險再採取行動。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 92,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "不確定是否安全時，我會選擇保守處理。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 93,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "我不會忽視小型異常。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 94,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "我會思考行動可能造成的後果。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 95,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "我會依據事實而不是猜測做判斷。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 96,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "遇到緊急事件時，我會先確保安全。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 97,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "我能分辨輕重緩急。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 98,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "我會避免做出衝動決定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 99,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "我知道錯誤判斷可能影響他人安全。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 100,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "我會在需要時請示主管或控制中心。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 101,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "我會準時上班並做好準備。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 102,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "我會遵守出勤與請假規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 103,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "我不會在工作時間處理私人事務。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 104,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "我會保持工作儀容整潔。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 105,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "我能接受工作紀律的要求。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 106,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "我會遵守交班規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 107,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "我不會任意離開工作崗位。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 108,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "我會依規定使用公司設備。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 109,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "我會避免影響工作表現的生活習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 110,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "我重視準時、穩定與可靠。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 111,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "我願意學習新的操作流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "學習適應"
+  },
+  {
+    "id": 112,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "面對新制度時，我會嘗試理解原因。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "學習適應"
+  },
+  {
+    "id": 113,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "我能接受訓練與考核。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "學習適應"
+  },
+  {
+    "id": 114,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "我會主動補強不足的能力。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "學習適應"
+  },
+  {
+    "id": 115,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "我不害怕學習新工具。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "學習適應"
+  },
+  {
+    "id": 116,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "我能適應工作內容的調整。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "學習適應"
+  },
+  {
+    "id": 117,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "我願意聽取有經驗同事的建議。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "學習適應"
+  },
+  {
+    "id": 118,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "我會把錯誤當成改進機會。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "學習適應"
+  },
+  {
+    "id": 119,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "我能接受公司安排的教育訓練。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "學習適應"
+  },
+  {
+    "id": 120,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "我願意持續提升專業能力。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "學習適應"
+  },
+  {
+    "id": 121,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若發現設備異常，我會先停止冒險操作並回報。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 122,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若乘客情緒激動，我會保持距離並依程序處理。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 123,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事要求我省略檢查，我會婉拒並照規定執行。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 124,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若交班資訊不清楚，我會主動確認後再接手。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 125,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若發現紀錄錯誤，我會立即修正並回報。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 126,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若主管不在現場，我仍會依制度處理。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 127,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若時間緊迫，我仍會完成必要安全步驟。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 128,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若遇到不熟悉問題，我會查詢規定或請示。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 129,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若乘客提出不合理要求，我會禮貌說明規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 130,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若發現自己判斷錯誤，我會立即更正。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": false,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 131,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 132,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 133,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "時間很趕時，熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 134,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 135,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 136,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "被催促時，我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 137,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 138,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 139,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "有時，面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 140,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 141,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 142,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "沒有人提醒時，新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 143,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 144,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 145,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "疲累時，只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 146,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 147,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 148,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "偶爾，只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 149,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 150,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 151,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "工作很忙時，如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 152,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 153,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 154,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "面對突發狀況時，只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 155,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 156,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 157,
+    "category": "責任感",
+    "type": "likert",
+    "question": "心情不好時，如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 158,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 159,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 160,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "在壓力大時，遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 161,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 162,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 163,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "時間很趕時，我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 164,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 165,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 166,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "被催促時，緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 167,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 168,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 169,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "有時，若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 170,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 171,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 172,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "沒有人提醒時，熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 173,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 174,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 175,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "疲累時，我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 176,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 177,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 178,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "偶爾，面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 179,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 180,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 181,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "工作很忙時，新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 182,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 183,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 184,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "面對突發狀況時，只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 185,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 186,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 187,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "心情不好時，只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 188,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 189,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 190,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "在壓力大時，如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 191,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 192,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 193,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "時間很趕時，只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 194,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 195,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 196,
+    "category": "責任感",
+    "type": "likert",
+    "question": "被催促時，如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 197,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 198,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 199,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "有時，遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 200,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 201,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 202,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "沒有人提醒時，我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 203,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 204,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 205,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "疲累時，緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 206,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 207,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 208,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "偶爾，若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 209,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 210,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 211,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "工作很忙時，熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 212,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 213,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 214,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "面對突發狀況時，我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 215,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 216,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 217,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "心情不好時，面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 218,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 219,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 220,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "在壓力大時，新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 221,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 222,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 223,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "時間很趕時，只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 224,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 225,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 226,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "被催促時，只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 227,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 228,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 229,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "有時，如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 230,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 231,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 232,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "沒有人提醒時，只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 233,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 234,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 235,
+    "category": "責任感",
+    "type": "likert",
+    "question": "疲累時，如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 236,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 237,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 238,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "偶爾，遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 239,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 240,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 241,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "工作很忙時，我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 242,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 243,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 244,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "面對突發狀況時，緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 245,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 246,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 247,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "心情不好時，若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 248,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 249,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 250,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "在壓力大時，熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 251,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 252,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 253,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "時間很趕時，我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 254,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 255,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 256,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "被催促時，面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 257,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 258,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 259,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "有時，新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 260,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 261,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 262,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "沒有人提醒時，只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 263,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 264,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 265,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "疲累時，只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 266,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 267,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 268,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "偶爾，如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 269,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 270,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 271,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "工作很忙時，只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 272,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 273,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 274,
+    "category": "責任感",
+    "type": "likert",
+    "question": "面對突發狀況時，如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 275,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 276,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 277,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "心情不好時，遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 278,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 279,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 280,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "在壓力大時，我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 281,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 282,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 283,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "時間很趕時，緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 284,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 285,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 286,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "被催促時，若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 287,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 288,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 289,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "有時，熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 290,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 291,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 292,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "沒有人提醒時，我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 293,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 294,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 295,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "疲累時，面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 296,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 297,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 298,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "偶爾，新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 299,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 300,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 301,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "工作很忙時，只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 302,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 303,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 304,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "面對突發狀況時，只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 305,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 306,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 307,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "心情不好時，如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 308,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 309,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 310,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "在壓力大時，只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 311,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 312,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 313,
+    "category": "責任感",
+    "type": "likert",
+    "question": "時間很趕時，如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 314,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 315,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 316,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "被催促時，遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 317,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 318,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 319,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "有時，我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 320,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 321,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 322,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "沒有人提醒時，緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 323,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 324,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 325,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "疲累時，若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 326,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 327,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 328,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "偶爾，熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 329,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 330,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 331,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "工作很忙時，我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 332,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 333,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 334,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對突發狀況時，面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 335,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 336,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 337,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "心情不好時，新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 338,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 339,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 340,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "在壓力大時，只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 341,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 342,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 343,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "時間很趕時，只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 344,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 345,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 346,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "被催促時，如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 347,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 348,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 349,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "有時，只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 350,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 351,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 352,
+    "category": "責任感",
+    "type": "likert",
+    "question": "沒有人提醒時，如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 353,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 354,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 355,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "疲累時，遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 356,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 357,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 358,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "偶爾，我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 359,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 360,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 361,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "工作很忙時，緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 362,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 363,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 364,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "面對突發狀況時，若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 365,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 366,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 367,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "心情不好時，熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 368,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 369,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 370,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "在壓力大時，我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 371,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 372,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 373,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "時間很趕時，面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 374,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 375,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 376,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "被催促時，新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 377,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 378,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 379,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "有時，只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 380,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 381,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 382,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "沒有人提醒時，只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 383,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 384,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 385,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "疲累時，如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 386,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 387,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 388,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "偶爾，只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 389,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 390,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 391,
+    "category": "責任感",
+    "type": "likert",
+    "question": "工作很忙時，如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 392,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 393,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 394,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "面對突發狀況時，遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 395,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 396,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 397,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "心情不好時，我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 398,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 399,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 400,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "在壓力大時，緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 401,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 402,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 403,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "時間很趕時，若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 404,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 405,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 406,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "被催促時，熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 407,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 408,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 409,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "有時，我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 410,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 411,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 412,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "沒有人提醒時，面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 413,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 414,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 415,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "疲累時，新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 416,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 417,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 418,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "偶爾，只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 419,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 420,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 421,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "工作很忙時，只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 422,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 423,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 424,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "面對突發狀況時，如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 425,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 426,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 427,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "心情不好時，只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 428,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 429,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 430,
+    "category": "責任感",
+    "type": "likert",
+    "question": "在壓力大時，如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 431,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 432,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 433,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "時間很趕時，遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 434,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 435,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 436,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "被催促時，我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 437,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 438,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 439,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "有時，緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 440,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 441,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 442,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "沒有人提醒時，若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 443,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 444,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 445,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "疲累時，熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 446,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 447,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 448,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "偶爾，我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 449,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 450,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 451,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "工作很忙時，面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 452,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 453,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 454,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "面對突發狀況時，新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 455,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 456,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 457,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "心情不好時，只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 458,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 459,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 460,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "在壓力大時，只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 461,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 462,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 463,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "時間很趕時，如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 464,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 465,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 466,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "被催促時，只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 467,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 468,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 469,
+    "category": "責任感",
+    "type": "likert",
+    "question": "有時，如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 470,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 471,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 472,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "沒有人提醒時，遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 473,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 474,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 475,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "疲累時，我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 476,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 477,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 478,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "偶爾，緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 479,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 480,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 481,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "工作很忙時，若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 482,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 483,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 484,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "面對突發狀況時，熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 485,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 486,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 487,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "心情不好時，我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  },
+  {
+    "id": 488,
+    "category": "團隊合作",
+    "type": "likert",
+    "question": "我比較喜歡只管自己的工作，不太想配合團隊。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "團隊合作"
+  },
+  {
+    "id": 489,
+    "category": "誠信人格",
+    "type": "likert",
+    "question": "如果不會被發現，偶爾違反規定問題不大。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "誠信人格"
+  },
+  {
+    "id": 490,
+    "category": "服務態度",
+    "type": "likert",
+    "question": "在壓力大時，面對態度不好的乘客，我很難保持禮貌。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "服務態度"
+  },
+  {
+    "id": 491,
+    "category": "風險判斷",
+    "type": "likert",
+    "question": "緊急時我通常憑直覺處理，不一定需要確認規定。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "風險判斷"
+  },
+  {
+    "id": 492,
+    "category": "工作紀律",
+    "type": "likert",
+    "question": "只要工作能完成，遲到幾分鐘沒有關係。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "工作紀律"
+  },
+  {
+    "id": 493,
+    "category": "學習適應",
+    "type": "likert",
+    "question": "時間很趕時，新的制度通常很麻煩，我不太願意改變習慣。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "學習適應"
+  },
+  {
+    "id": 494,
+    "category": "情境判斷",
+    "type": "likert",
+    "question": "若同事違規但沒有造成問題，我會當作沒看到。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情境判斷"
+  },
+  {
+    "id": 495,
+    "category": "責任感",
+    "type": "likert",
+    "question": "如果工作沒有人檢查，我可能會降低標準。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "責任感"
+  },
+  {
+    "id": 496,
+    "category": "安全意識",
+    "type": "likert",
+    "question": "被催促時，只要沒有立刻發生危險，偶爾省略安全步驟也可以。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "安全意識"
+  },
+  {
+    "id": 497,
+    "category": "遵守SOP",
+    "type": "likert",
+    "question": "熟悉工作後，就不需要每次都照標準流程。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "遵守SOP"
+  },
+  {
+    "id": 498,
+    "category": "情緒穩定",
+    "type": "likert",
+    "question": "遇到不順心的事情，我容易把情緒表現在工作上。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "情緒穩定"
+  },
+  {
+    "id": 499,
+    "category": "壓力承受",
+    "type": "likert",
+    "question": "有時，只要工作壓力變大，我就很難維持穩定表現。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "壓力承受"
+  },
+  {
+    "id": 500,
+    "category": "專注與細心",
+    "type": "likert",
+    "question": "我常因粗心而忽略重要細節。",
+    "options": [
+      "非常不同意",
+      "不同意",
+      "普通",
+      "同意",
+      "非常同意"
+    ],
+    "reverse": true,
+    "trait": "專注與細心"
+  }
+]

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>桃園捷運司機員心理測驗模擬</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">原創模擬練習｜非官方試題</p>
+      <h1>桃園捷運司機員心理測驗模擬</h1>
+      <p>約 500 題繁體中文題庫，支援分類篩選、作答、計分與結果分析。</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="panel">
+      <div class="toolbar">
+        <label>分類
+          <select id="categoryFilter">
+            <option value="all">全部分類</option>
+          </select>
+        </label>
+        <label>題數
+          <select id="limitSelect">
+            <option value="20">20 題</option>
+            <option value="50" selected>50 題</option>
+            <option value="100">100 題</option>
+            <option value="500">全部題庫</option>
+          </select>
+        </label>
+        <button id="startBtn">開始測驗</button>
+        <button id="resetBtn" class="ghost">重新作答</button>
+      </div>
+      <div class="note">
+        作答方式：1＝非常不同意、2＝不同意、3＝普通、4＝同意、5＝非常同意。心理測驗重視一致性，請依真實狀況作答。
+      </div>
+    </section>
+
+    <section id="quiz" class="quiz"></section>
+
+    <section class="panel result" id="resultPanel" hidden>
+      <h2>測驗結果</h2>
+      <div id="summary"></div>
+      <div id="categoryScores"></div>
+      <button id="exportBtn">下載作答結果 JSON</button>
+    </section>
+  </main>
+
+  <footer>
+    本頁面僅供甄試準備與自我練習使用，不代表桃園捷運公司官方心理測驗。
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
